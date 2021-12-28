@@ -1,0 +1,44 @@
+.Middle{
+	align-items: center;
+	display: flex;
+	vertical-align: middle;
+	margin: auto;
+}
+
+.table{
+
+width: 100%;}
+
+thead{
+	font: 1.2rem;
+	background-color: #0074FF;
+	color: white;
+}
+.TextArea{
+	height: 100px;
+	margin: auto;
+	width: 90%;
+}
+.center{
+
+	width: 100%;
+	 display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.BTNMENU{
+	 flex-wrap: wrap;
+	width: 100%;
+	 height: 100vh;
+	 display:flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.BTNMENU button{
+	width: 60%;
+
+} 
+
